@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LocationProviderApplication</string>
+    <string name="app_location_permission_required_title">Cannot proceed without your location.</string>
+    <string name="app_location_permission_required_description">Unable to proceed further without your location. Please go to settings, allow the location permission and turn on your location in order to proceed.</string>
+    <string name="app_btn_ok">OK!</string>
+    <string name="app_const_package">package</string>
+    <string name="app_stop_location_work_now">Stop Location Work Now</string>
+    <string name="app_start_location_work_now">Start Location Work Now</string>
+    <string name="app_latitude">Latitude %1$s</string>
+    <string name="app_longitude">Longitude %1$s</string>
+    <string name="app_date_time">Date: %1$s Time: %2$s</string>
+    <string name="app_date_format">d MMM YYYY</string>
+    <string name="app_time_format">hh:mm a</string>
+    <string name="app_notification_name_location_worker">Location Worker</string>
+    <string name="app_location_worker_title">Just added your location to our room database</string>
+    <string name="app_tap_here_to_proceed">Tap here to proceed</string>
+</resources>
